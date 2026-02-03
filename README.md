@@ -39,7 +39,7 @@ Lo scopo è **simulare vulnerabilità reali** per:
 ---
 
 ## SQL Injection Bypass
-![SQL Injection](Homework/Login_Vulnerabile1.pdf)
+![SQL Injection](/Login_Vulnerabile1.pdf)
 
 ## Dump Utenti
 ![Users Dump](screenshots/users-dump.png)
